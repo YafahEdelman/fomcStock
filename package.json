@@ -1,0 +1,31 @@
+{
+  "name": "fomcStock",
+  "version": "0.0.0",
+  "description": "A program to check whether the FOMC meetings influenced stock prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobEdelman/fomcStock.git"
+  },
+  "keywords": [
+    "FOMC",
+    "stocks",
+    "statistics",
+    "market",
+    "patterns"
+  ],
+  "author": "Jacob Edelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobEdelman/fomcStock/issues"
+  },
+  "homepage": "https://github.com/JacobEdelman/fomcStock",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "historic": "0.0.3",
+    "underscore": "^1.6.0"
+  }
+}
